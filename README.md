@@ -1,3 +1,3 @@
 # E-Ticaret
-01-E-Ticaret(Karşılıklı E-ticaret Script)
+01-E-Ticaret Scripti
 
